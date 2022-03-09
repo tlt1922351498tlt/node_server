@@ -1,0 +1,12 @@
+{
+	"name": "wangyi_server",
+	"version": "1.0.0",
+	"dependencies": {
+		"koa": "^2.8.2",
+		"koa-router": "^7.4.0",
+		"nodemon": "^1.19.4"
+	},
+	"scripts": {
+		"start": "nodemon server.js"
+	}
+}
