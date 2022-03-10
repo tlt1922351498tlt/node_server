@@ -9,7 +9,7 @@ router.get('/', (ctx, next) => {
 })
 
 // 主页数据
-let indexData =  require('./datas/index.json');
+let indexData =  require('./datas/indexData.json');
 router.get('/getIndexData', (ctx, next) => {
 	ctx.body = {
 		code: 0,

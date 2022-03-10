@@ -1,0 +1,61 @@
+{
+  "banner": [
+    {
+      "imageUrl": "https://wkphoto.cdn.bcebos.com/6c224f4a20a44623f672bc018822720e0cf3d71d.jpg"
+    },
+    {
+      "imageUrl": "https://wkphoto.cdn.bcebos.com/63d0f703918fa0ecfba47d6e369759ee3d6ddb76.jpg"
+    },
+    {
+      "imageUrl": "https://wkphoto.cdn.bcebos.com/4e4a20a4462309f790d4b471620e0cf3d7cad61d.jpg"
+    }
+  ],
+  "categories": [
+    {
+      "cuIcon": "hotfill",
+      "color": "red",
+      "mid": "1",
+      "name": "换届选举"
+    },
+    {
+      "cuIcon": "goodsnewfill",
+      "color": "orange",
+      "mid": "2",
+      "name": "快递上门"
+    },
+    {
+      "cuIcon": "colorlens",
+      "color": "yellow",
+      "mid": "3",
+      "name": "乡村医疗"
+    },
+    {
+      "cuIcon": "calendar",
+      "color": "cyan",
+      "mid": "4",
+      "name": "维修服务"
+    }
+  ],
+  "curriculum": [
+    {
+      "name": "生态资讯",
+      "content": "稻蟹共生促发展 一天两用助增收..."
+    },
+    {
+      "name": "文化建设",
+      "content": "稻蟹共生促发展 一天两用助增收...."
+    },
+    {
+      "name": "乡村新闻",
+      "content": "稻蟹共生促发展 一天两用助增收..."
+    },
+    {
+      "name": "脱贫攻坚",
+      "content": "稻蟹共生促发展 一天两用助增收..."
+    },
+    {
+      "name": "健康指导",
+      "content": "稻蟹共生促发展 一天两用助增收..."
+    }
+  ]
+}
