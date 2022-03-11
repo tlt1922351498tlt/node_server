@@ -17,26 +17,35 @@ router.get('/getIndexData', (ctx, next) => {
 	};
 });
 
-// 主页导航页面数据
-let indexCateList = require('./datas/indexCateList.json')
-router.get('/getindexCateList', async (ctx, next) => {
-	// 生成的H5应用存在跨域问题，通过CORS设置跨域配置
-	ctx.set('Access-Control-Allow-Origin', '*')
-	await new Promise(resolve => setTimeout(() => resolve(),2000))
-	ctx.body = indexCateList;
-});
+// 主页数据
+// let scenic =  require('./datas/scenic.json');
+// router.get('/getScenicData', (ctx, next) => {
+// 	ctx.body = {
+// 		code: 0,
+// 		data: scenic
+// 	};
+// });
+
+// // 主页导航页面数据
+// let indexCateList = require('./datas/indexCateList.json')
+// router.get('/getindexCateList', async (ctx, next) => {
+// 	// 生成的H5应用存在跨域问题，通过CORS设置跨域配置
+// 	ctx.set('Access-Control-Allow-Origin', '*')
+// 	await new Promise(resolve => setTimeout(() => resolve(),2000))
+// 	ctx.body = indexCateList;
+// });
 
 
 
 
-// 分类页面数据 
-let cateGoryData = require('./datas/categoryDatas.json');
-router.get('/getCateGoryData', async (ctx, next) => {
-	ctx.body = {
-		code: 0,
-		data: cateGoryData
-	};
-});
+// // 分类页面数据 
+// let cateGoryData = require('./datas/categoryDatas.json');
+// router.get('/getCateGoryData', async (ctx, next) => {
+// 	ctx.body = {
+// 		code: 0,
+// 		data: cateGoryData
+// 	};
+// });
 
 
 

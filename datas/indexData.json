@@ -1,13 +1,13 @@
 {
   "banner": [
     {
-      "imageUrl": "https://wkphoto.cdn.bcebos.com/6c224f4a20a44623f672bc018822720e0cf3d71d.jpg"
+      "imageUrl": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2F40003106.93iu.com%2Fpictures%2FTrustSoft%2FNews%2F2019211420437.jpg&refer=http%3A%2F%2F40003106.93iu.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1649552671&t=d5472a691a26513c6f587449359e8ec2"
     },
     {
       "imageUrl": "https://wkphoto.cdn.bcebos.com/63d0f703918fa0ecfba47d6e369759ee3d6ddb76.jpg"
     },
     {
-      "imageUrl": "https://wkphoto.cdn.bcebos.com/4e4a20a4462309f790d4b471620e0cf3d7cad61d.jpg"
+      "imageUrl": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fwww.mianfeiwendang.com%2Fpic%2F19452edc33dda900bfbb3316de071cca7b94c2b3%2F1-810-jpg_6-1440-0-0-1440.jpg&refer=http%3A%2F%2Fwww.mianfeiwendang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1649552927&t=101cd1112b80ae61fbf83ff53846960a"
     }
   ],
   "categories": [
@@ -15,13 +15,13 @@
       "cuIcon": "hotfill",
       "color": "red",
       "mid": "1",
-      "name": "换届选举"
+      "name": "热门景点"
     },
     {
       "cuIcon": "goodsnewfill",
       "color": "orange",
       "mid": "2",
-      "name": "快递上门"
+      "name": "乡村购物"
     },
     {
       "cuIcon": "colorlens",
@@ -56,6 +56,45 @@
     {
       "name": "健康指导",
       "content": "稻蟹共生促发展 一天两用助增收..."
+    }
+  ],
+  "scenery":[
+    {
+      "count":1,
+      "imgUrl":"https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fwww.fj.chinanews.com%2F2021%2F0430%2FU14P4DT20210430172953.jpg&refer=http%3A%2F%2Fwww.fj.chinanews.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1649554669&t=51b41580f5fbaa3f0582afc73bc0fdfa",
+      "content":"风车花海",
+      "text":"风车花海·世外桃源 说起世外桃源,你首先会想起桃花朵朵的武陵源,还是只存在于幻想中的巴比伦空中花园"
+    },
+    {
+      "count":2,
+      "imgUrl":"https://img0.baidu.com/it/u=771747216,1951009527&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=313",
+      "content":"乡村人文",
+      "text":"风车花海·世外桃源 说起世外桃源,你首先会想起桃花朵朵的武陵源,还是只存在于幻想中的巴比伦空中花园"
+    },
+    {
+      "count":3,
+      "imgUrl":"https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg3.doubanio.com%2Fview%2Fnote%2Fl%2Fpublic%2Fp68485942.jpg&refer=http%3A%2F%2Fimg3.doubanio.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1649555157&t=8c768df7f388a75ffbc96271e53d0a72",
+      "content":"油菜花田",
+      "text":"风车花海·世外桃源 说起世外桃源,你首先会想起桃花朵朵的武陵源,还是只存在于幻想中的巴比伦空中花园"
+      
+    },
+    {
+      "count":4,
+      "imgUrl":"https://img0.baidu.com/it/u=23655837,4137794479&fm=253&fmt=auto&app=138&f=JPG?w=667&h=500",
+      "content":"向日花海",
+      "text":"风车花海·世外桃源 说起世外桃源,你首先会想起桃花朵朵的武陵源,还是只存在于幻想中的巴比伦空中花园"
+    },
+    {
+      "count":5,
+      "imgUrl":"https://img2.baidu.com/it/u=1468986501,505299139&fm=253&fmt=auto&app=138&f=JPG?w=819&h=500",
+      "content":"乡村稻田",
+      "text":"风车花海·世外桃源 说起世外桃源,你首先会想起桃花朵朵的武陵源,还是只存在于幻想中的巴比伦空中花园"
+    },
+    {
+      "content":6,
+      "imgUrl":"https://img0.baidu.com/it/u=3001364942,581790659&fm=253&fmt=auto&app=138&f=JPEG?w=580&h=386",
+      "count":"3d画",
+      "text":"风车花海·世外桃源 说起世外桃源,你首先会想起桃花朵朵的武陵源,还是只存在于幻想中的巴比伦空中花园"
     }
   ]
 }
