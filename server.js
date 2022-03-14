@@ -17,14 +17,23 @@ router.get('/getIndexData', (ctx, next) => {
 	};
 });
 
-// 主页数据
-// let scenic =  require('./datas/scenic.json');
-// router.get('/getScenicData', (ctx, next) => {
-// 	ctx.body = {
-// 		code: 0,
-// 		data: scenic
-// 	};
-// });
+// 热门景点数据
+let pageHotData =  require('./datas/page_hot.json');
+router.get('/getPageHotData', (ctx, next) => {
+	ctx.body = {
+		code: 0,
+		data: pageHotData
+	};
+});
+
+// 热门景点数据
+let scenery =  require('./datas/scenery.json');
+router.get('/getScenetyData', (ctx, next) => {
+	ctx.body = {
+		code: 0,
+		data: scenery
+	};
+});
 
 // // 主页导航页面数据
 // let indexCateList = require('./datas/indexCateList.json')
