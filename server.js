@@ -7,7 +7,6 @@ const router = new KoaRouter();
 router.get('/', (ctx, next) => {
 	ctx.body = '123'
 })
-
 // 主页数据
 let indexData =  require('./datas/indexData.json');
 router.get('/getIndexData', (ctx, next) => {
@@ -16,7 +15,6 @@ router.get('/getIndexData', (ctx, next) => {
 		data: indexData
 	};
 });
-
 // 热门景点数据
 let pageHotData =  require('./datas/page_hot.json');
 router.get('/getPageHotData', (ctx, next) => {
@@ -25,7 +23,6 @@ router.get('/getPageHotData', (ctx, next) => {
 		data: pageHotData
 	};
 });
-
 // 热门景点数据
 let scenery =  require('./datas/scenery.json');
 router.get('/getScenetyData', (ctx, next) => {
@@ -34,28 +31,40 @@ router.get('/getScenetyData', (ctx, next) => {
 		data: scenery
 	};
 });
+// 旅游安全数据
+let getSencureData =  require('./datas/secureData.json');
+router.get('/getSencureData', (ctx, next) => {
+	ctx.body = {
+		code: 0,
+		data: getSencureData
+	};
+});
+// 获取main数据
+let getMainData =  require('./datas/mainData.json');
+router.get('/getMainData', (ctx, next) => {
+	ctx.body = {
+		code: 0,
+		data: getMainData
+	};
+});
 
-// // 主页导航页面数据
-// let indexCateList = require('./datas/indexCateList.json')
-// router.get('/getindexCateList', async (ctx, next) => {
-// 	// 生成的H5应用存在跨域问题，通过CORS设置跨域配置
-// 	ctx.set('Access-Control-Allow-Origin', '*')
-// 	await new Promise(resolve => setTimeout(() => resolve(),2000))
-// 	ctx.body = indexCateList;
-// });
+// 获取news数据
+let getNewsData =  require('./datas/newsData.json');
+router.get('/getNewsData', (ctx, next) => {
+	ctx.body = {
+		code: 0,
+		data: getNewsData
+	};
+});
 
-
-
-
-// // 分类页面数据 
-// let cateGoryData = require('./datas/categoryDatas.json');
-// router.get('/getCateGoryData', async (ctx, next) => {
-// 	ctx.body = {
-// 		code: 0,
-// 		data: cateGoryData
-// 	};
-// });
-
+// 获取me数据
+let getMeData =  require('./datas/meData.json');
+router.get('/getMeData', (ctx, next) => {
+	ctx.body = {
+		code: 0,
+		data: getMeData
+	};
+});
 
 
 

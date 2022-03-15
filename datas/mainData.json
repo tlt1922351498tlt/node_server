@@ -1,0 +1,36 @@
+{
+  "live_services": [
+    {
+    "title": "交通服务",
+    "name": "交通服务",
+    "color": "",
+    "url": "/page_transportation/transportation_together/transportation_together"
+    },
+    {
+    "title": "医疗服务",
+    "name": "医疗服务",
+    "color": "",
+    "url": "/page_cure/cure_index/cure_index"
+    },
+    {
+    "title": "租房服务",
+    "name": "租房服务",
+    "color": "",
+    "url": "/page_rent/rent_index/rent_index"
+    },
+    {
+    "title": "乡村旅行食宿",
+    "name": "乡村旅行食宿",
+    "color": "",
+    "url": "/page_travel/travel_index/travel_index"
+    }
+  ],
+  "travel_scenic_spot":[
+    {
+      "title": "热门景点",
+      "name": "热门景点",
+      "color": "",
+      "url": "/page_hot/hot_index/hot_index"
+    }
+  ]
+}

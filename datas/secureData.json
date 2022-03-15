@@ -1,0 +1,20 @@
+{
+  "secure_indexList":[
+    {
+      "title": "在线查询",
+      "name": "在线查询",
+      "color": "",
+      "url": "/page_secure/secure_item/secure_inquiry",
+      "detail":"为游客提供解决突发情况的解决方法",
+      "icon":"http://p1362.bvimg.com/10465/ffe19a08db41c6ee.png"
+    },
+    {
+      "title": "注意事项",
+      "name": "注意事项",
+      "color": "",
+      "url": "/page_secure/secure_item/secure_attention",
+      "detail":"请各位游客查看景点的注意事项说明",
+      "icon":"http://p1362.bvimg.com/10465/ffe19a08db41c6ee.png"
+    }
+  ]
+}

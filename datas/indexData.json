@@ -21,19 +21,19 @@
       "cuIcon": "goodsnewfill",
       "color": "orange",
       "mid": "2",
-      "name": "乡村购物"
+      "name": "旅游购物"
     },
     {
       "cuIcon": "colorlens",
       "color": "yellow",
       "mid": "3",
-      "name": "乡村医疗"
+      "name": "安全知识"
     },
     {
       "cuIcon": "calendar",
       "color": "cyan",
       "mid": "4",
-      "name": "维修服务"
+      "name": "没想好"
     }
   ],
   "curriculum": [

@@ -1,0 +1,64 @@
+{
+  "list":[
+    {
+      "name": "景点消息"
+    },
+    {
+      "name": "疫情"
+    },
+    {
+      "name": "待定"
+    },
+    {
+      "name": "待定"
+    }
+  ],
+  "dataList1": [
+    {
+      "informationid": "1",
+      "message": "这里是资讯",
+      "title": "这里是标题",
+      "time": "这里是时间",
+      "authorName": "这里是作者名",
+      "img": "http://p1362.bvimg.com/10465/a781899b01a1af31.png"
+    },
+    {
+      "informationid": "2",
+      "message": "这里是资讯",
+      "title": "这里是标题",
+      "time": "这里是时间",
+      "authorName": "这里是作者名",
+      "img": "http://p1362.bvimg.com/10465/a781899b01a1af31.png"
+    }
+  ],
+  "dataList2":[
+    {
+      "informationid": "1",
+      "message": "这里是资讯",
+      "title": "这里是标题",
+      "time": "这里是时间",
+      "authorName": "这里是作者名",
+      "img": "http://p1362.bvimg.com/10465/a781899b01a1af31.png"
+    }
+  ],
+  "dataList3":[
+    {
+      "informationid": "1",
+      "message": "这里是资讯",
+      "title": "这里是标题",
+      "time": "这里是时间",
+      "authorName": "这里是作者名",
+      "img": "http://p1362.bvimg.com/10465/a781899b01a1af31.png"
+    }
+  ],
+  "dataList4":[
+    {
+      "informationid": "1",
+      "message": "这里是资讯",
+      "title": "这里是标题",
+      "time": "这里是时间",
+      "authorName": "这里是作者名",
+      "img": "http://p1362.bvimg.com/10465/a781899b01a1af31.png"
+    }
+  ]
+}
