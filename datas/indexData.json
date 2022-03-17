@@ -12,25 +12,25 @@
   ],
   "categories": [
     {
-      "cuIcon": "hotfill",
+      "cuIcon": "remen",
       "color": "red",
       "mid": "1",
       "name": "热门景点"
     },
     {
-      "cuIcon": "goodsnewfill",
+      "cuIcon": "shangchengguanli",
       "color": "orange",
       "mid": "2",
       "name": "旅游购物"
     },
     {
-      "cuIcon": "colorlens",
+      "cuIcon": "zhishi",
       "color": "yellow",
       "mid": "3",
       "name": "安全知识"
     },
     {
-      "cuIcon": "calendar",
+      "cuIcon": "qita1",
       "color": "cyan",
       "mid": "4",
       "name": "没想好"

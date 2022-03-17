@@ -18,9 +18,10 @@
       "informationid": "1",
       "message": "这里是资讯",
       "title": "这里是标题",
-      "time": "这里是时间",
-      "authorName": "这里是作者名",
-      "img": "http://p1362.bvimg.com/10465/a781899b01a1af31.png"
+      "time": "2018/5/6",
+      "authorName": "卖报小郎君",
+      "img": "https://cdn.uviewui.com/uview/album/1.jpg",
+      "CommentCount":11
     },
     {
       "informationid": "2",
@@ -28,7 +29,8 @@
       "title": "这里是标题",
       "time": "这里是时间",
       "authorName": "这里是作者名",
-      "img": "http://p1362.bvimg.com/10465/a781899b01a1af31.png"
+      "img": "https://cdn.uviewui.com/uview/album/1.jpg",
+      "CommentCount":26
     }
   ],
   "dataList2":[
@@ -38,7 +40,8 @@
       "title": "这里是标题",
       "time": "这里是时间",
       "authorName": "这里是作者名",
-      "img": "http://p1362.bvimg.com/10465/a781899b01a1af31.png"
+      "img": "https://cdn.uviewui.com/uview/album/1.jpg",
+      "CommentCount":8
     }
   ],
   "dataList3":[
@@ -48,7 +51,8 @@
       "title": "这里是标题",
       "time": "这里是时间",
       "authorName": "这里是作者名",
-      "img": "http://p1362.bvimg.com/10465/a781899b01a1af31.png"
+      "img": "https://cdn.uviewui.com/uview/album/1.jpg",
+      "CommentCount":48
     }
   ],
   "dataList4":[
@@ -58,7 +62,8 @@
       "title": "这里是标题",
       "time": "这里是时间",
       "authorName": "这里是作者名",
-      "img": "http://p1362.bvimg.com/10465/a781899b01a1af31.png"
+      "img": "https://cdn.uviewui.com/uview/album/1.jpg",
+      "CommentCount":29
     }
   ]
 }
