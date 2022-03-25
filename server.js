@@ -66,6 +66,15 @@ router.get('/getMeData', (ctx, next) => {
 	};
 });
 
+// 获取buysData数据
+let getBuysData =  require('./datas/buysData.json');
+router.get('/getBuysData', (ctx, next) => {
+	ctx.body = {
+		code: 0,
+		data: getBuysData
+	};
+});
+
 
 
 app
@@ -73,7 +82,7 @@ app
 	.use(router.allowedMethods())
 	
 	
-app.listen('3002', () => {
+app.listen('5210', () => {
 	console.log('服务器启动');
-	console.log('服务器地址： http://localhost:3002')
+	console.log('服务器地址： http://localhost:5210')
 })
