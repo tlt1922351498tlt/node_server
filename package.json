@@ -3,6 +3,7 @@
 	"version": "1.0.0",
 	"dependencies": {
 		"koa": "^2.8.2",
+		"koa-bodyparser": "^4.3.0",
 		"koa-router": "^7.4.0",
 		"nodemon": "^1.19.4"
 	},
