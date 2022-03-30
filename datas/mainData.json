@@ -4,19 +4,13 @@
     "title": "旅游购物",
     "name": "旅游购物",
     "color": "",
-    "url": "/page_transportation/transportation_together/transportation_together"
+    "url": "/pages/index/tabbar?PageCur=buy"
     },
     {
-    "title": "景区设备",
-    "name": "景区设备",
+    "title": "景点资讯",
+    "name": "景点资讯",
     "color": "",
-    "url": "/page_cure/cure_index/cure_index"
-    },
-    {
-    "title": "特色美食",
-    "name": "特色美食",
-    "color": "",
-    "url": "/page_rent/rent_index/rent_index"
+    "url": "/pages/index/tabbar?PageCur=news"
     },
     {
     "title": "安全知识",
@@ -31,6 +25,12 @@
       "name": "热门景点",
       "color": "",
       "url": "/page_hot/hot_index/hot_index"
+    },
+    {
+    "title": "美丽乡村",
+    "name": "美丽乡村",
+    "color": "",
+    "url": "/pages/me/scenic"
     }
   ]
 }

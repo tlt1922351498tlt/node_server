@@ -1,20 +1,37 @@
 {
   "secure_indexList":[
     {
-      "title": "在线查询",
-      "name": "在线查询",
+      "title": "健康咨询",
+      "name": "健康咨询",
       "color": "",
       "url": "/page_secure/secure_item/secure_inquiry",
       "detail":"为游客提供解决突发情况的解决方法",
       "icon":"http://p1362.bvimg.com/10465/ffe19a08db41c6ee.png"
     },
     {
-      "title": "注意事项",
-      "name": "注意事项",
+      "title": "出发准备",
+      "name": "出发准备",
       "color": "",
-      "url": "/page_secure/secure_item/secure_attention",
+      "url": "/page_secure/secure_item/secure_setout",
+      "detail":"请各位游客查看景点的注意事项说明",
+      "icon":"http://p1362.bvimg.com/10465/ffe19a08db41c6ee.png"
+    },
+    {
+      "title": "安全事项",
+      "name": "安全事项",
+      "color": "",
+      "url": "/page_secure/secure_item/secure_anquan",
+      "detail":"请各位游客查看景点的注意事项说明",
+      "icon":"http://p1362.bvimg.com/10465/ffe19a08db41c6ee.png"
+    },
+    {
+      "title": "防骗指南",
+      "name": "防骗指南",
+      "color": "",
+      "url": "/page_secure/secure_item/secure_fangpian",
       "detail":"请各位游客查看景点的注意事项说明",
       "icon":"http://p1362.bvimg.com/10465/ffe19a08db41c6ee.png"
     }
+    
   ]
 }
