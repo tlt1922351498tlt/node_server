@@ -265,7 +265,7 @@
       {
         "count": 0,
         "showIndex": 1,
-        "superCategoryId": 1005000,
+        "superCategoryId": 1010000,
         "selected": false,
         "promTag":"特色旅游蔬菜",
         "wapBannerUrl": "https://s1.ax1x.com/2022/03/26/qdlYRO.png",
@@ -486,8 +486,8 @@
         "weight":"盆",
         "describe": "绿萝",
         "showIndex": 1,
+        "superCategoryId": 1019000,
         "wapBannerUrl": "https://s1.ax1x.com/2022/03/26/qddozn.png",
-        "bannerUrl": "",
         "name": "绿萝",
         "id": 109268001
       },
